@@ -1,5 +1,6 @@
 ### Hi there  I'm Tuğba👋
 
+bos atmayi severim
 
 
 
