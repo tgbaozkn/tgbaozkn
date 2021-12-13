@@ -7,8 +7,10 @@
 - 🌱 I’m currently learning JavaScript,C# ,Python.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-    - :incoming_envelope:  [Mail](tgbaozkn1995@gmail.com)
-    - :mag_right: [LinkedIn](https://www.linkedin.com/in/tugba-ozkan-270076112/)
+
+<br/>
+    -  <a href="tgbaozkn1995@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
+    - <a href="https://www.linkedin.com/in/tugba-ozkan-270076112/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/> <hr/>
 
 
     
@@ -30,6 +32,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
 
 
 
