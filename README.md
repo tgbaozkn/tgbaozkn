@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on data analyzing and I am trying to do desktop app with C# for Electricity analyzing.
-- 🌱 I’m currently learning React Native,C# ,Python.
+- 🌱 I’m currently learning JavaScript,C# ,Python.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
     - :incoming_envelope:  [Mail](tgbaozkn1995@gmail.com)
