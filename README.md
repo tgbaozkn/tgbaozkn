@@ -10,5 +10,23 @@
     - :incoming_envelope:  [Mail](tgbaozkn1995@gmail.com)
     - :mag_right: [LinkedIn](https://www.linkedin.com/in/tugba-ozkan-270076112/)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgbaozkn)](https://github.com/tgbaozkn/github-readme-stats)
+**languages and tools:**  
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactnative/reactnative.png"></code>
+
+<code><img height=“30” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/charp/csharp.png"></code>
+
+
+
+
 
