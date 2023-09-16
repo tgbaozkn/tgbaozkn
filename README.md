@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on data analyzing and I am trying to do desktop app with C# for Electricity analyzing.
-- 🌱 I’m currently learning JavaScript,C# ,Python.
+- 🔭 I’m currently working on data analyzing and I am trying to do web app with Reactjs, Js, PostreSQL for Electricity supply, demand, production, and price analyzing.
+- 🌱 I’m currently learning React Native, JavaScript,Python.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 
