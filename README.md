@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on data analyzing and I am trying to do web app with Reactjs, Js, PostreSQL for Electricity supply, demand, production, and price analyzing.
+- 🔭 I’m currently working on C#.
 - 🌱 I’m currently learning React Native, JavaScript,Python.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
