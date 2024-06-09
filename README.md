@@ -3,8 +3,12 @@
 
 
 
-- 🔭 I’m currently working on C#.
-- 🌱 I’m currently learning React Native, JavaScript,Python.
+- 🔭 I’m currently working on my mobile projects. I have some apps on Play Store and App Store. I have one public python library. I have web game project on netlify.
+- Here ara my applications links :
+- <a href="https://play.google.com/store/apps/details?id=com.outfitloop&pcampaignid=web_share" target="_blank"><p> OutfitLoop </p></a>
+- <a href="https://play.google.com/store/apps/details?id=com.tgbaozkn.nutrivit&pcampaignid=web_share" target="_blank"><p> Nutriviy </p></a>
+- <a href="https://play.google.com/store/apps/details?id=com.tgbaozkn.energy_map&pcampaignid=web_share" target="_blank"><p> Power Plants Map </p></a>
+- 🌱 I’m currently learning C#.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 
