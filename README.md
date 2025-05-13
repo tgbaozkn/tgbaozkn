@@ -11,7 +11,7 @@
 - <a href="https://play.google.com/store/apps/details?id=com.snapwordsapp&pcampaignid=web_share" target="_blank"><p> SnapWords App </p></a>
 - <a href="https://play.google.com/store/apps/details?id=com.scannify_app&pcampaignid=web_share" target="_blank"><p> Scannify </p></a>
 - <a href="https://play.google.com/store/apps/details?id=com.sevapbenim&pcampaignid=web_share" target="_blank"><p> SevapBenim </p></a>
-- 🌱 I’m currently learning C#.
+
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 
